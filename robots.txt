@@ -1,0 +1,1 @@
+Sitemap: /https://carsrental.github.io/cars/sitemap.xml
